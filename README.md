@@ -8,4 +8,4 @@ A tindog website made exclusively for Dogs.
 * The main framework used in building the TinDog website is Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
 
 # Screenshots
-![](images/tindog ss.png)
+![](images/tindog.png)
